@@ -1,0 +1,8 @@
+[submodule "KernelSU-Next"]
+	path = KernelSU-Next
+	url = https://github.com/Trijal08/KernelSU-Next.git
+	branch = legacy-susfs
+[submodule "KernelSU"]
+	path = KernelSU
+	url = https://github.com/Trijal08/KernelSU.git
+	branch = master-susfs
